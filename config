@@ -1,0 +1,6 @@
+domainName="Afraseo.com"
+tokenVariable="193025875:AAEXJbqLu6tRexwge6ca_5Qc-2Iwm4UVpiU"
+chatID=131728488
+periodTime=3600
+freeMessage="$domainName is free now"
+dataToSend="text=$freeMessage&chat_id=$chatID"
